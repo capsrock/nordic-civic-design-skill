@@ -1,6 +1,6 @@
 # nordic-civic-design-skill
 
-日本語 | [English](README.en.md)
+[English](README.en.md) | 日本語
 
 ![nordic-civic-design-skill — Helsinki Design System（HDS）をベースにした非公式のデザインスキル。角を丸めない形、強い色、広い余白で公共サービスの Web 画面を作る](assets/social-card-jp.png)
 

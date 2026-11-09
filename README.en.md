@@ -1,6 +1,6 @@
 # nordic-civic-design-skill
 
-[日本語](README.md) | English
+English | [日本語](README.md)
 
 ![nordic-civic-design-skill — An unofficial design skill based on the Helsinki Design System (HDS), for building public-service web pages with square shapes, strong color, and wide spacing](assets/social-card-en.png)
 
